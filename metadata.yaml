@@ -1,0 +1,26 @@
+_repo: A-short-sketch-of-the-evidence-for-the-abolition-of-the-slave-trade-delivered-before-a-commit__69166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crafton, William Bell
+    gutenberg_agent_id: '55138'
+    url: http://www.gutenberg.org/2009/agents/55138
+description: ''
+gutenberg_issued: '2022-10-16'
+identifiers:
+  gutenberg: '69166'
+language: en
+pgterms:marc905: 20220212154242crafton
+pgterms:marc906: '1792'
+pgterms:marc907: GB
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Daniel Lawrence,1792.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A short sketch of the evidence for the abolition of the slave trade, delivered
+  before a committee of the House of Commons
+url: http://www.gutenberg.org/ebooks/69166
